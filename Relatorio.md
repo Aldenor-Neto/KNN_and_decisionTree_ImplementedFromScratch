@@ -76,3 +76,7 @@ As curvas **Precision-Recall** e **ROC** da Árvore de Decisão mostram que, emb
 Neste trabalho, implementamos e avaliamos os modelos **KNN e Árvore de Decisão** para a classificação de tumores mamários. O **KNN** demonstrou melhor desempenho, alcançando uma acurácia média de **97,14%**, enquanto a **Árvore de Decisão** atingiu **90,35%**.  
 
 Os gráficos incluídos reforçam a análise dos modelos, evidenciando que, embora ambos sejam viáveis para a tarefa, o **KNN** se destaca em precisão e recall, sendo uma melhor escolha para este dataset específico.
+
+## Repositório
+
+- **Github**: [KNN and Decision_Tree](https://github.com/Aldenor-Neto/KNN_and_decisionTree_ImplementedFromScratch)
